@@ -16,3 +16,9 @@ body {
     justify-content: left;
     width: 100%;
 }
+
+.menu {
+    width: 30%;
+    display:grid;
+    justify-content: left;
+}
