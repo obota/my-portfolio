@@ -1,0 +1,18 @@
+h1 {
+    font-style: italic;
+    color: brown;
+}
+
+h2 {
+    font-style: italic;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+.pictures {
+    display:flex;
+    justify-content: center;
+    width: 100%;
+}
